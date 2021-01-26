@@ -1,4 +1,4 @@
 docker:
-  image: node:latest
-  digest: sha256:9205bb385656cd196f5303b03983282c95c2dfab041d275465c525b501574e5c
+  image: gcr.io/repo-automation-bots/node-templates
+  digest: sha256:f05537177e078863a9c6b22d59a84b67c17566b671eabe13820abb1c0cf8d396
 
