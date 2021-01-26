@@ -1,7 +1,7 @@
 {
-  "name": "@google-cloud/secret-manager",
+  "name": "owl-bot-testing",
   "version": "3.3.0",
-  "description": "Secrets client for Node.js",
+  "description": "Owl Bot Testing",
   "repository": "googleapis/nodejs-secret-manager",
   "license": "Apache-2.0",
   "author": "Google LLC",

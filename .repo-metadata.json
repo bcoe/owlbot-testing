@@ -1,6 +1,6 @@
 {
-  "name": "secretmanager",
-  "name_pretty": "Secret Manager",
+  "name": "owl-bot-test",
+  "name_pretty": "OwlBot Testing",
   "product_documentation": "https://cloud.google.com/secret-manager/docs",
   "client_documentation": "https://googleapis.dev/nodejs/secretmanager/latest/index.html",
   "issue_tracker": "https://issuetracker.google.com/issues/new?component=784854",
