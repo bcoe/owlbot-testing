@@ -26,7 +26,7 @@ If the support paths suggested above still do not result in a resolution, please
   - OS:
   - Node.js version:
   - npm version:
-  - `@google-cloud/secret-manager` version:
+  - `owl-bot-testing` version:
 
 #### Steps to reproduce
 
