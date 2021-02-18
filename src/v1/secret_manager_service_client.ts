@@ -17,7 +17,7 @@
 // ** All changes to this file may be overwritten. **
 
 /* global window */
-import * as gax from 'google-gax';
+import * as gax from 'google-gax'
 import {
   Callback,
   CallOptions,
