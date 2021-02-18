@@ -1,3 +1,3 @@
 docker:
-  image: gcr.io/repo-automation-bots/node-templates
-  digest: sha256:444629ec465c6f25067f4230e717202d266efda7ae4317a28127ed59a96a291b
+  digest: sha256:6ca0f70a0e815f4f78ed3b7db833e9b3ba38960217cf191c9a30584e6f1c57bd
+  image: gcr.io/repo-automation-bots/owlbot-nodejs:latest
